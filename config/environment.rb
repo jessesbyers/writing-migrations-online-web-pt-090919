@@ -19,4 +19,4 @@ def drop_db
   end
 end
 
-require_relative "../artist.rb"
+# require_relative "../artist.rb"
