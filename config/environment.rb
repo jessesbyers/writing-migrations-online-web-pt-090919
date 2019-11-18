@@ -18,5 +18,3 @@ def drop_db
     DB.execute("DROP TABLE #{table}")
   end
 end
-
-# require_relative "../artist.rb"
